@@ -1,6 +1,13 @@
 # Act5_widgets
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![image](https://github.com/user-attachments/assets/a64c8dd2-1051-48bc-8a97-3aaac3edc3e9)
+
+![image](https://github.com/user-attachments/assets/8098f1f8-2be9-410f-8442-199b7f9f2525)
+
+![image](https://github.com/user-attachments/assets/bcd38cdc-454e-48ee-b074-5ea9ad9c50ef)
+
+
+
 
 ## Getting Started
 
